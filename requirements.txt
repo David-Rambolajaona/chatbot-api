@@ -23,7 +23,7 @@ cryptography==43.0.0
 cssselect2==0.7.0
 curl_cffi==0.7.1
 defusedxml==0.7.1
-duckduckgo_search==6.2.11
+duckduckgo_search==6.2.10
 exceptiongroup==1.2.2
 fastapi==0.112.2
 Flask==3.0.3
